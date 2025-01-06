@@ -1,5 +1,5 @@
 {
-    "name": "PRMDHERKU",
+    "name": "THARINDU_MD",
     "version": "2.1.4",
     "description": "null",
     "main": "start.js",
@@ -28,7 +28,7 @@
         "@sl-code-lords/wabetainfo": "1.2.0",
         "@tobyg74/tiktok-api-dl": "1.0.13",
         "@vitalets/google-translate-api": "9.2.0",
-        "@whiskeysockets/baileys": "git+https://github.com/PMDWABOTMD/Baileys-6.0.0.git",
+        "@whiskeysockets/baileys": "git+https://github.com/tharindu0064/Tharindu/Baileys-6.0.0.git",
         "api-dylux": "latest",
         "aptoide-scraper": "1.0.1",
         "awesome-phonenumber": "6.2.0",
